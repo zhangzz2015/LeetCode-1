@@ -15,5 +15,6 @@ Code
 |Array     |134|[gas-station](https://leetcode.com/problems/gas-station/)|[C++](greedy/Gas%20Station.cpp) |[easy](./array/remove_element_README.md)|
 |Array     |118|[pascals-triangle](https://leetcode.com/problems/pascals-triangle/)|[C++](array/Pascal's%20Triangle.cpp) |[easy](./array/remove_element_README.md)|
 |Array     |119|[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii/)|[C++](array/Pascal's%20Triangle%20II.cpp) |[easy](./array/remove_element_README.md)|
+|Array     |169|[majority-element](https://leetcode.com/problems/majority-element/)|[C++](array/Majority-Element.cpp) |[easy](./array/remove_element_README.md)|
 |Array     |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./hash%20table/Two%20Sum.cpp) |[easy](./hash%20table/1_two_sum_README.md)|
 |Array     |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](./linked%20list/Add%20Two%20Numbers.cpp) |[easy](./hash%20table/1_two_sum_README.md)|
