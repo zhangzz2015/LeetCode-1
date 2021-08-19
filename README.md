@@ -38,5 +38,6 @@ Code
 |Array     |164|[maximum-gap](https://leetcode.com/problems/maximum-gap/)|[C++](sort/Maximum%20Gap.cpp) |[easy](./array/remove_element_README.md)|
 |Array     |287|[find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number/)|[C++](array/Find%20the%20Duplicate%20Number.cpp) |[easy](./array/remove_element_README.md)|
 |Array     |135|[candy](https://leetcode.com/problems/candy/)|[C++](greedy/Candy.cpp) |[easy](./array/remove_element_README.md)|
+|Array     |330|[patching-array](https://leetcode.com/problems/patching-array/)|[C++](greedy/Patching%20Array.cpp) |[easy](./array/remove_element_README.md)|
 |Array     |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./hash%20table/Two%20Sum.cpp) |[easy](./hash%20table/1_two_sum_README.md)|
 |Array     |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](./linked%20list/Add%20Two%20Numbers.cpp) |[easy](./hash%20table/1_two_sum_README.md)|
