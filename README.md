@@ -42,5 +42,6 @@ Code
 |Array     |4|[median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C++](binary%20search/Median%20of%20Two%20Sorted%20Arrays.cpp) |[easy](./array/remove_element_README.md)|
 |Array     |312|[create-maximum-number](https://leetcode.com/problems/create-maximum-number/)|[C++](stack/Create-Maximum-Number.cpp) |[easy](./array/remove_element_README.md)|
 |Array     |327|[count-of-range-sum](https://leetcode.com/problems/count-of-range-sum/)|[C++](Count%20of%20Range%20Sum.cpp) |[easy](./array/remove_element_README.md)|
+|Array     |289|[game-of-life](https://leetcode.com/problems/game-of-life/)|[C++](bit%20manipulation/Game%20of%20Life.cpp) |[easy](./array/remove_element_README.md)|
 |Array     |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./hash%20table/Two%20Sum.cpp) |[easy](./hash%20table/1_two_sum_README.md)|
 |Array     |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](./linked%20list/Add%20Two%20Numbers.cpp) |[easy](./hash%20table/1_two_sum_README.md)|
