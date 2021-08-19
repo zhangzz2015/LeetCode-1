@@ -50,5 +50,6 @@ Code
 |Array     |352|[data-stream-as-disjoint-intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)|[Array](array/Data-Stream-As-Disjoint-Intervals.cpp)|[easy](./array/remove_element_README.md)|
 |Array     |239|[sliding-window-maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Array](heap/Sliding%20Window%20Maximum.cpp)|[easy](./array/remove_element_README.md)|
 |Array     |295|[find-median-from-data-stream](https://leetcode.com/problems/find-median-from-data-stream/)|[C++](heap/Find%20Median%20from%20Data%20Stream.cpp)|[easy](./array/remove_element_README.md)|
+|Array     |53|[maximum-subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](dp/Maximum%20Subarray.cpp)|[easy](./array/remove_element_README.md)|
 |Array     |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./hash%20table/Two%20Sum.cpp) |[easy](./hash%20table/1_two_sum_README.md)|
 |Array     |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](./linked%20list/Add%20Two%20Numbers.cpp) |[easy](./hash%20table/1_two_sum_README.md)|
