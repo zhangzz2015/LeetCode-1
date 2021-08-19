@@ -45,5 +45,6 @@ Code
 |Array     |289|[game-of-life](https://leetcode.com/problems/game-of-life/)|[C++](bit%20manipulation/Game%20of%20Life.cpp) |[easy](./array/remove_element_README.md)|
 |Array     |57|[insert-interval](https://leetcode.com/problems/insert-interval/)|[C++](sort/Insert%20Interval.cpp) |[easy](./array/remove_element_README.md)|
 |Array     |56|[merge-intervals](https://leetcode.com/problems/merge-intervals/)|[Array](array/Merge%20Intervals.cpp) [Sort](sort/Merge%20Intervals.cpp)|[easy](./array/remove_element_README.md)|
+|Array     |252|[meeting-rooms](https://leetcode.com/problems/meeting-rooms/)|[Sort](sort/Meeting-Rooms.cpp)|[easy](./array/remove_element_README.md)|
 |Array     |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./hash%20table/Two%20Sum.cpp) |[easy](./hash%20table/1_two_sum_README.md)|
 |Array     |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](./linked%20list/Add%20Two%20Numbers.cpp) |[easy](./hash%20table/1_two_sum_README.md)|
