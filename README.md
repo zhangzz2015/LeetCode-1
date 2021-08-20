@@ -53,6 +53,6 @@ Code
 |Array     |53|[maximum-subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](dp/Maximum%20Subarray.cpp)|[easy](./array/remove_element_README.md)|
 |Array     |325|[maximum-size-subarray-sum-equals-k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)|[C++](hash%20table/Maximum%20Size%20Subarray%20Sum%20Equals%20k.cpp)|[easy](./array/remove_element_README.md)|
 |Array     |209|[minimum-size-subarray-sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C++](array/Minimum%20Size%20Subarray%20Sum.cpp) [C++](two%20pointers/Minimum%20Size%20Subarray%20Sum.cpp) |[easy](./array/remove_element_README.md)|
-|Array     |238|[product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/)|[C++](array/Product%20of%20Array%20Except%20Self.cpp) [C++](two%20pointers/Minimum%20Size%20Subarray%20Sum.cpp) |[easy](./array/remove_element_README.md)|
+|Array     |238|[product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/)|[C++](array/Product%20of%20Array%20Except%20Self.cpp) |[easy](./array/remove_element_README.md)|
 |Array     |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./hash%20table/Two%20Sum.cpp) |[easy](./hash%20table/1_two_sum_README.md)|
 |Array     |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](./linked%20list/Add%20Two%20Numbers.cpp) |[easy](./hash%20table/1_two_sum_README.md)|
